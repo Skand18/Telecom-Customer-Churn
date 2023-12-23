@@ -1,0 +1,6 @@
+# Uploads and Downloads Folders
+/*/Uploads
+/*/downloads
+
+# All PDFs
+*.pdf

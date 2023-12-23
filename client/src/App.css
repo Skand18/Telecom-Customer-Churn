@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    box-sizing:border-box;
+}
+
+.demoTable{
+    margin-left: 550px;
+}
